@@ -2,6 +2,8 @@
 
 I am creating a fighting game in Unity for my Object Oriented Design final project. This ReadMe will contain an update log on my project.
 
+For uploads, I will be uploading an exported version of the game, along with the scripts I wrote
+
 4/29 3:00 PM: Uploaded version 1 of the game. It features
   - Controls: Both players can be controlled via the keyboard. WASD/the arrow keys will move player 1 and ijkl will move player 2
     - Attack Controls: Player 1 can perform heavy and light attacks with the left alt and control buttons, and Player 2 can perform heavy and light attacks with the o and u keys

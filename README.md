@@ -39,3 +39,13 @@ For uploads, I will be uploading an exported version of the game, along with the
   - Players cannot exit the game without alt+f4 or similar methods
 
 *Note: My friends are testing this version for bugs 
+
+
+5/2 10:30 AM: Uploaded version 0.3 of my game. Features:
+- Features:
+  - There is now a character select screen, which will let both players select their characters
+  - Both players can select either character and they will be dynamically loaded into the fight
+- Bug fixes:
+  - No previously known bugs have been fixed
+- Known Bugs
+  - No new known bugs hve been discovered (yet).

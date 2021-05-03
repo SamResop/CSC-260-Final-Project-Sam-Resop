@@ -49,3 +49,8 @@ For uploads, I will be uploading an exported version of the game, along with the
   - No previously known bugs have been fixed
 - Known Bugs
   - No new known bugs hve been discovered (yet).
+
+
+5/2 9:30 PM: Uploaded version 1.0 of my game. Features:
+-Features:
+  - There is a main menu which will allow the player to close the game, view the controls, or play the game

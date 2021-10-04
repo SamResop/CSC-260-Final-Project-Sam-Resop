@@ -54,3 +54,9 @@ For uploads, I will be uploading an exported version of the game, along with the
 5/2 9:30 PM: Uploaded version 1.0 of my game. Features:
 -Features:
   - There is a main menu which will allow the player to close the game, view the controls, or play the game
+
+8/4/2021 3:47 PM: Uploaded a new version
+-Features:
+ - Added a fireball attack
+ - Added knockback when the player is sent into hitstun
+ - Players can no longer jump inside of each other

@@ -9,6 +9,8 @@ public class HealthBars : MonoBehaviour
     public Image LeftRed;
     public Image RightYellow;
     public Image RightRed;
+    public GameObject P1Victory;
+    public GameObject P2Victory;
 
     // Start is called before the first frame update
     void Start()
@@ -45,6 +47,19 @@ public class HealthBars : MonoBehaviour
             {
                 LeftRed.fillAmount -= 0.003f;
             }
+        }
+        if (HealthState.Player1Health <= 0)
+        {
+            P2Victory.SetActive(true);
+        }
+        else if (HealthState.Player2Health <= 0)
+        {
+            P1Victory.SetActive(true);
+        }
+        else
+        {
+            P1Victory.SetActive(false);
+            P2Victory.SetActive(false);
         }
     }
 }
